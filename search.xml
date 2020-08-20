@@ -5,12 +5,18 @@
     
     <entry>
       <title>这是一个测试!!</title>
-      <link href="/2020/08/13/hello-world/"/>
-      <url>/2020/08/13/hello-world/</url>
+      <link href="/2020/08/13/%E6%B5%8B%E8%AF%95%E7%94%A8/"/>
+      <url>/2020/08/13/%E6%B5%8B%E8%AF%95%E7%94%A8/</url>
       
         <content type="html"><![CDATA[<p>叭噗能看见吗! </p><p>这是一个刨冰 → 🍧</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
       
     </entry>
     
